@@ -39,5 +39,15 @@ All datasets are explained in detail in [`data_README.md`](./data_README.md). Th
    ```bash
    git clone https://github.com/yourusername/NBA-stats-analysis-2024.git
    cd NBA-stats-analysis-2024
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Upload Datasets
+
+4. Run the Jupyter Notebook
+   Jupyter Notebook notebook/NBA_PLAYER_PERFORMANCE_AND_ANALYSIS.ipynb
+
 
 
